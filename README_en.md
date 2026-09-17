@@ -3,29 +3,25 @@
 # ⚡ Hello World, I'm HackBit (ITquanh) 👨‍💻
 
 <p align="center">
-  <b>集极客美学与高信息密度于一体的个人全栈数字空间</b><br>
-  <i>A personal full-stack digital space combining geek aesthetics with high information density</i>
+  <b>A personal full-stack digital space combining geek aesthetics with high information density</b><br>
+  <i>Full-Stack Engineer · System Automation Architect · AI-Assisted Development Pioneer</i>
 </p>
 
 <!-- Language Switcher Bar -->
 <p align="center">
-  <a href="#-中文版">
+  <a href="https://github.com/ITquanh/ITquanh/blob/main/README.md#-中文版">
     <img src="https://img.shields.io/badge/Language-🇨🇳_中文版-00ff41?style=for-the-badge" alt="中文版" />
   </a>
   &nbsp;
-  <a href="#-english-version">
-    <img src="https://img.shields.io/badge/Language-🇬🇧_English-0070f3?style=for-the-badge" alt="English" />
-  </a>
-  &nbsp;
   <a href="https://github.com/ITquanh/ITquanh/blob/main/README_en.md">
-    <img src="https://img.shields.io/badge/Standalone-📖_README_en.md-9333ea?style=for-the-badge" alt="Standalone English" />
+    <img src="https://img.shields.io/badge/Language-🇬🇧_English-0070f3?style=for-the-badge" alt="English" />
   </a>
 </p>
 
 <!-- Quick Navigation Badges -->
-[![Website](https://img.shields.io/badge/🌐_Website-personal--brand--website-00ff41?style=flat-square&logo=vercel&logoColor=white)](https://personal-brand-website-plum.vercel.app)
-[![Projects](https://img.shields.io/badge/🚀_Projects-Explore_All-0070f3?style=flat-square&logo=github&logoColor=white)](https://personal-brand-website-plum.vercel.app/zh/projects)
-[![Blog](https://img.shields.io/badge/📝_Tech_Blog-Read_Articles-9333ea?style=flat-square&logo=hashnode&logoColor=white)](https://personal-brand-website-plum.vercel.app/zh/blog)
+[![Website](https://img.shields.io/badge/🌐_Website-personal--brand--website-00ff41?style=flat-square&logo=vercel&logoColor=white)](https://personal-brand-website-plum.vercel.app/en)
+[![Projects](https://img.shields.io/badge/🚀_Projects-Explore_All-0070f3?style=flat-square&logo=github&logoColor=white)](https://personal-brand-website-plum.vercel.app/en/projects)
+[![Blog](https://img.shields.io/badge/📝_Tech_Blog-Read_Articles-9333ea?style=flat-square&logo=hashnode&logoColor=white)](https://personal-brand-website-plum.vercel.app/en/blog)
 
 ---
 
@@ -35,7 +31,7 @@
     <td width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
       <pre style="font-family: monospace; color: #58a6ff; margin: 0;">
 <span style="color: #00ff41;">➜</span> <span style="color: #79c0ff;">~</span> whoami
-HackBit (ITquanh) - 全栈开发者 & AI 辅助工程实践者 | Full-Stack Engineer & AI Practitioner
+HackBit (ITquanh) - Full-Stack Engineer & AI Engineering Practitioner
 
 <span style="color: #00ff41;">➜</span> <span style="color: #79c0ff;">~</span> cat status.json
 {
@@ -53,44 +49,7 @@ HackBit (ITquanh) - 全栈开发者 & AI 辅助工程实践者 | Full-Stack Engi
 
 <br>
 
-<div id="-中文版"></div>
-
-## 🇨🇳 中文版
-
-### 🌐 网站深度联动 (Quick Navigation)
-
-我搭建了一个极客美学与高性能的个人技术空间，与本 GitHub 深度绑定，欢迎前往交互体验：
-
-| 传送入口 | 链接直达 | 亮点特性 |
-| :--- | :--- | :--- |
-| **🏠 数字化空间主页** | [personal-brand-website-plum.vercel.app](https://personal-brand-website-plum.vercel.app/zh) | 终端动效、Bento Grid 交互网格、赛博深色主题 |
-| **🚀 精选开源项目** | [/zh/projects](https://personal-brand-website-plum.vercel.app/zh/projects) | 包含量化指标、架构解析、在线演示与技术栈拆解 |
-| **📝 极客技术博文** | [/zh/blog](https://personal-brand-website-plum.vercel.app/zh/blog) | 深度 Android 调优实践、AI Agent 规范与全栈架构 |
-| **📋 职业履历与时间轴** | [/zh/about](https://personal-brand-website-plum.vercel.app/zh/about) | 研发历程、技术雷达技能云图与真实项目交付指标 |
-
-### 🌟 精选代表作品 (Featured Projects)
-
-#### 1. [🚀 Android Device Optimizer (安卓全场景全维调优中枢)](https://github.com/ITquanh/android-device-optimizer)
-> **全场景跨 Android 5.0 ~ 16+ 的通用设备调优中枢与原生 AI Agent Skill**
-- 🛡️ **防变砖绝对第一**：每次执行前强制生成初始离线快照，支持秒级 100% 逆向复原。
-- ⚡ **双轨优化管线**：免 Root 稳健通道 (0.75x动效 / 全局高刷 / cgroup墓碑 / AOT预编译 / FSTRIM) + 极客 Root 通道 (BMS阻抗学习重置释放锁容 / 30级平滑音量步进)。
-- 🤖 **AI Agent 规范赋能**：内嵌 6 步 SOP 状态机与 Runbook，支持 Antigravity、Claude Code、Cursor 自主调度。
-- 🔗 [查看线上文章解读](https://personal-brand-website-plum.vercel.app/zh/blog/android-device-optimizer) · [查看项目架构指标](https://personal-brand-website-plum.vercel.app/zh/projects/android-device-optimizer)
-
-#### 2. [💻 Personal Brand Website (极客全栈数字品牌)](https://github.com/ITquanh/personal-brand-website)
-> **集极客美学与高信息密度于一体的个人全栈品牌站点**
-- 🛠️ 基于 **Next.js 16 (App Router + Turbopack) + React 19 + TypeScript + TailwindCSS** 打造。
-- 🗄️ 全球云原生存储与多维数据库：**Neon PostgreSQL + Prisma ORM**。
-- 📊 自研无感路由访问统计仪表盘、中英文 i18n 实时多语言架构、Bento Grid 响应式布局。
-- 🔗 [在线访问网站](https://personal-brand-website-plum.vercel.app/zh)
-
----
-
-<div id="-english-version"></div>
-
-## 🇬🇧 English Version
-
-### 🌐 Deep Integration with My Space (Quick Links)
+## 🌐 Deep Integration with My Space (Quick Links)
 
 I built a high-performance personal tech brand website with geek aesthetics, deeply linked with GitHub:
 
@@ -101,16 +60,18 @@ I built a high-performance personal tech brand website with geek aesthetics, dee
 | **📝 Tech Blog & Guides** | [/en/blog](https://personal-brand-website-plum.vercel.app/en/blog) | Deep-dive Android tuning, AI Agent skills, and full-stack engineering |
 | **📋 Career & Timeline** | [/en/about](https://personal-brand-website-plum.vercel.app/en/about) | Career milestones, skill radar chart, and quantifiable deliverables |
 
-### 🌟 Featured Projects
+---
 
-#### 1. [🚀 Android Device Optimizer (Universal Optimization Hub)](https://github.com/ITquanh/android-device-optimizer)
+## 🌟 Featured Projects
+
+### 1. [🚀 Android Device Optimizer (Universal Optimization Hub)](https://github.com/ITquanh/android-device-optimizer)
 > **Cross-version (Android 5.0 ~ 16+) device tuning hub and native AI Agent Skill**
 - 🛡️ **Zero-Risk Guarantee**: Enforces offline snapshot creation before any modification, enabling one-click 100% reversible rollback.
 - ⚡ **Dual-Track Pipeline**: Non-Root Robust Path (0.75x animation, global refresh rate, cgroup freeze, AOT compilation, FSTRIM) + Extreme Root Path (BMS impedance reset to release false capacity loss, 30-level smooth volume steps).
 - 🤖 **AI Agent Native Skill**: Bundled with a 6-step SOP state machine and Runbook, supported by Antigravity, Claude Code, and Cursor out of the box.
 - 🔗 [Read Tech Guide](https://personal-brand-website-plum.vercel.app/en/blog/android-device-optimizer) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/android-device-optimizer)
 
-#### 2. [💻 Personal Brand Website](https://github.com/ITquanh/personal-brand-website)
+### 2. [💻 Personal Brand Website](https://github.com/ITquanh/personal-brand-website)
 > **A personal full-stack digital space combining geek aesthetics with high information density**
 - 🛠️ Powered by **Next.js 16 (App Router + Turbopack), React 19, TypeScript, and TailwindCSS**.
 - 🗄️ Cloud-native persistence: **Neon Serverless PostgreSQL with Prisma ORM**.
@@ -119,7 +80,7 @@ I built a high-performance personal tech brand website with geek aesthetics, dee
 
 ---
 
-## 🛠️ 技术兵器库 · Tech Stack & Weapons
+## 🛠️ Tech Stack & Weapons
 
 <div align="center">
 
@@ -151,7 +112,7 @@ I built a high-performance personal tech brand website with geek aesthetics, dee
 
 ---
 
-## 📊 GitHub 极客统计看板 · Geek Metrics
+## 📊 Geek Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ITquanh&show_icons=true&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D&hide_border=false" alt="ITquanh's GitHub Stats" height="165" />
@@ -164,9 +125,9 @@ I built a high-performance personal tech brand website with geek aesthetics, dee
 
 ---
 
-## 📬 触达方式与命令面板 · Get In Touch
+## 📬 Get In Touch
 
-- 🌐 **Digital Brand Website**: [personal-brand-website-plum.vercel.app](https://personal-brand-website-plum.vercel.app) *(Press <kbd>Ctrl</kbd> + <kbd>K</kbd> anywhere to trigger the command palette)*
+- 🌐 **Digital Brand Website**: [personal-brand-website-plum.vercel.app/en](https://personal-brand-website-plum.vercel.app/en) *(Press <kbd>Ctrl</kbd> + <kbd>K</kbd> anywhere to trigger the command palette)*
 - 💬 **GitHub Discussions / Issues**: Welcome to open issues or PRs in any repository
 - ✉️ **Email**: Get in touch via the contact panel on the personal website
 
