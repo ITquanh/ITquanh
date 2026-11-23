@@ -78,13 +78,13 @@ Welcome to explore my personal full-stack digital space, featuring geek aestheti
 - 📱 **Native Architecture**: Modern Kotlin + Android Jetpack Compose declarative UI + Room encrypted local persistence.
 - 🔗 [Explore Architecture & Metrics](https://personal-brand-website-plum.vercel.app/en/projects/synapseflow)
 
-### 3. [🤖 AutoWX: WeChat Automation, Smart Archival & Enterprise Metrics Dispatcher](https://personal-brand-website-plum.vercel.app/en/projects/autowx)
+### 3. [🤖 AutoWX: WeChat Automation, Smart Archival & Enterprise Metrics Dispatcher](https://github.com/ITquanh/AutoWX)
 > **A hybrid WeChat automation system combining low-level SQLite/WAL database decryption and UIAutomation (adapted for WeChat 4.0)**
 - 🔍 **Low-Level DB Silent Polling**: Decrypts and reads local WeChat SQLite/WAL databases via memory-extracted keys, enabling reliable background polling even when minimized.
 - 📊 **Smart Excel Archiver & Processing Engine**: Extracts business entities, phone numbers, and plan tiers with resilient regex parsing algorithms and timestamp deduplication.
 - 🛡️ **FocusLocker & Dual Thread Daemon**: Prevents desktop focus collision during automation typing; combines message polling and scheduler threads for unattended 24/7 reliability.
 - 📋 **Paste Parser**: Allows instant one-click clipboard text parsing directly into spreadsheets without active listeners.
-- 🔗 [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/autowx)
+- 🔗 [GitHub Repository](https://github.com/ITquanh/AutoWX) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/autowx)
 
 ### 4. [⚡ auto-zdlz: Chrome Intranet Automation Assistant](https://github.com/ITquanh/auto-zdlz)
 > **A standalone Manifest V3 Chrome extension designed for enterprise intranet automation**

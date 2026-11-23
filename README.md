@@ -86,13 +86,13 @@ HackBit (ITquanh) - 全栈开发者 & AI 辅助工程实践者 | Full-Stack Engi
 - 📱 **技术架构**：现代 Kotlin + Android Jetpack Compose 声明式架构 + Room 本地加密存储。
 - 🔗 [查看架构与量化成效](https://personal-brand-website-plum.vercel.app/zh/projects/synapseflow)
 
-#### 3. [🤖 AutoWX (微信智能归档与业务报表调度中枢)](https://personal-brand-website-plum.vercel.app/zh/projects/autowx)
+#### 3. [🤖 AutoWX (微信智能归档与业务报表调度中枢)](https://github.com/ITquanh/AutoWX)
 > **基于底层 SQLite/WAL 数据库解密与 UIAutomation 混合驱动的微信自动化系统（适配微信 4.0）**
 - 🔍 **底层 DB 级无感静默监听**：直接读取并解密本地微信 SQLite/WAL 数据库，窗口遮挡或最小化均可后台稳定轮询，彻底告别脆弱的 UI 监听。
 - 📊 **Excel 智能归档与去重引擎**：针对复杂业务报单与套餐流水，基于自研正则容错算法智能提取手机号码与套餐，支持时间戳覆盖去重。
 - 🛡️ **焦点保护与双守护架构**：内置 `FocusLocker` 焦点保护锁杜绝自动化输入冲突；双线并发支持长周期无人值守守护。
 - 📋 **剪贴板实体解析 (Paste Parser)**：支持业务文本一键粘贴解析，瞬时生成标准数据报表。
-- 🔗 [查看架构与详情](https://personal-brand-website-plum.vercel.app/zh/projects/autowx)
+- 🔗 [GitHub 仓库](https://github.com/ITquanh/AutoWX) · [查看架构与详情](https://personal-brand-website-plum.vercel.app/zh/projects/autowx)
 
 #### 4. [⚡ auto-zdlz (Chrome 内网智能化助手)](https://github.com/ITquanh/auto-zdlz)
 > **专为企业内网设计的独立 Manifest V3 网页操作录制与回放自动化扩展**
