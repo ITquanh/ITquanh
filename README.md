@@ -69,30 +69,45 @@ HackBit (ITquanh) - 全栈开发者 & AI 辅助工程实践者 | Full-Stack Engi
 
 ---
 
-### 🌟 精选代表作品 (Featured Projects)
+### 🌟 核心开源项目卡片 (Featured Repositories)
 
-#### 1. [🚀 Android Device Optimizer (安卓全场景全维调优中枢)](https://github.com/ITquanh/android-device-optimizer)
-> **全场景跨 Android 5.0 ~ 16+ 的通用设备调优中枢与原生 AI Agent Skill**
-- 🛡️ **防变砖绝对第一**：每次执行前强制生成初始离线快照，支持秒级 100% 逆向复原。
-- ⚙️ **双轨优化管线**：免 Root 稳健通道 (0.75x动效 / 全局高刷 / cgroup墓碑 / AOT预编译 / FSTRIM) + 极客 Root 通道 (BMS阻抗学习重置释放锁容 / 30级平滑音量步进)。
-- 🤖 **原生 AI Agent Skill**：内置 6 步 SOP 状态机与 Runbook，支持 Antigravity、Claude Code、Cursor 即插即用。
-- 🔗 [阅读技术指南](https://personal-brand-website-plum.vercel.app/zh/blog/android-device-optimizer) · [查看架构拆解](https://personal-brand-website-plum.vercel.app/zh/projects/android-device-optimizer)
+<div align="center">
+  <a href="https://github.com/ITquanh/AutoWX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=AutoWX&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="AutoWX" /></a>
+  <a href="https://github.com/ITquanh/android-device-optimizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=android-device-optimizer&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="android-device-optimizer" /></a>
+  <br>
+  <a href="https://github.com/ITquanh/auto-zdlz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=auto-zdlz&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="auto-zdlz" /></a>
+  <a href="https://github.com/ITquanh/LearnEnglish"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=LearnEnglish&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="LearnEnglish" /></a>
+  <br>
+  <a href="https://github.com/ITquanh/StarMind-Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=StarMind-Manager&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="StarMind-Manager" /></a>
+  <a href="https://github.com/ITquanh/personal-brand-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=personal-brand-website&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="personal-brand-website" /></a>
+</div>
 
-#### 2. [🧠 SynapseFlow (神经流：外置前额叶认知代偿系统)](https://personal-brand-website-plum.vercel.app/zh/projects/synapseflow)
-> **基于认知神经科学与 LLM 的外置前额叶认知代偿工具，专为高压职场与 ADHD 群体设计**
-- 🧩 **AI 物理微动作拆解 (Micro-chunking)**：将大目标单键裂变为无阻力的物理动作序列，消除启动障碍与决策疲劳。
-- ⏱️ **30秒“脑力指纹”测定 (CoV)**：内置基于符号匹配范式的反应时变异系数测试，量化专注度并动态自适应降载。
-- 🎯 **单路径聚焦界面 (Single-Path UI)**：屏蔽列表认知干扰，同一时刻仅渲染当前聚焦的单个原子任务卡片。
-- 📱 **技术架构**：现代 Kotlin + Android Jetpack Compose 声明式架构 + Room 本地加密存储。
-- 🔗 [查看架构与量化成效](https://personal-brand-website-plum.vercel.app/zh/projects/synapseflow)
+---
 
-#### 3. [🤖 AutoWX (微信智能归档与业务报表调度中枢)](https://github.com/ITquanh/AutoWX)
+### 🚀 精选代表作品详情 (Detailed Projects)
+
+#### 1. [🤖 AutoWX (微信智能归档与业务报表调度中枢)](https://github.com/ITquanh/AutoWX)
 > **基于底层 SQLite/WAL 数据库解密与 UIAutomation 混合驱动的微信自动化系统（适配微信 4.0）**
 - 🔍 **底层 DB 级无感静默监听**：直接读取并解密本地微信 SQLite/WAL 数据库，窗口遮挡或最小化均可后台稳定轮询，彻底告别脆弱的 UI 监听。
 - 📊 **Excel 智能归档与去重引擎**：针对复杂业务报单与套餐流水，基于自研正则容错算法智能提取手机号码与套餐，支持时间戳覆盖去重。
 - 🛡️ **焦点保护与双守护架构**：内置 `FocusLocker` 焦点保护锁杜绝自动化输入冲突；双线并发支持长周期无人值守守护。
 - 📋 **剪贴板实体解析 (Paste Parser)**：支持业务文本一键粘贴解析，瞬时生成标准数据报表。
 - 🔗 [GitHub 仓库](https://github.com/ITquanh/AutoWX) · [查看架构与详情](https://personal-brand-website-plum.vercel.app/zh/projects/autowx)
+
+#### 2. [🚀 Android Device Optimizer (安卓全场景全维调优中枢)](https://github.com/ITquanh/android-device-optimizer)
+> **全场景跨 Android 5.0 ~ 16+ 的通用设备调优中枢与原生 AI Agent Skill**
+- 🛡️ **防变砖绝对第一**：每次执行前强制生成初始离线快照，支持秒级 100% 逆向复原。
+- ⚙️ **双轨优化管线**：免 Root 稳健通道 (0.75x动效 / 全局高刷 / cgroup墓碑 / AOT预编译 / FSTRIM) + 极客 Root 通道 (BMS阻抗学习重置释放锁容 / 30级平滑音量步进)。
+- 🤖 **原生 AI Agent Skill**：内置 6 步 SOP 状态机与 Runbook，支持 Antigravity、Claude Code、Cursor 即插即用。
+- 🔗 [阅读技术指南](https://personal-brand-website-plum.vercel.app/zh/blog/android-device-optimizer) · [查看架构拆解](https://personal-brand-website-plum.vercel.app/zh/projects/android-device-optimizer)
+
+#### 3. [🧠 SynapseFlow (神经流：外置前额叶认知代偿系统)](https://personal-brand-website-plum.vercel.app/zh/projects/synapseflow)
+> **基于认知神经科学与 LLM 的外置前额叶认知代偿工具，专为高压职场与 ADHD 群体设计**
+- 🧩 **AI 物理微动作拆解 (Micro-chunking)**：将大目标单键裂变为无阻力的物理动作序列，消除启动障碍与决策疲劳。
+- ⏱️ **30秒“脑力指纹”测定 (CoV)**：内置基于符号匹配范式的反应时变异系数测试，量化专注度并动态自适应降载。
+- 🎯 **单路径聚焦界面 (Single-Path UI)**：屏蔽列表认知干扰，同一时刻仅渲染当前聚焦的单个原子任务卡片。
+- 📱 **技术架构**：现代 Kotlin + Android Jetpack Compose 声明式架构 + Room 本地加密存储。
+- 🔗 [查看架构与量化成效](https://personal-brand-website-plum.vercel.app/zh/projects/synapseflow)
 
 #### 4. [⚡ auto-zdlz (Chrome 内网智能化助手)](https://github.com/ITquanh/auto-zdlz)
 > **专为企业内网设计的独立 Manifest V3 网页操作录制与回放自动化扩展**
@@ -136,30 +151,45 @@ Welcome to explore my personal full-stack digital space, featuring geek aestheti
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Repositories
 
-#### 1. [🚀 Android Device Optimizer (Universal Optimization Hub)](https://github.com/ITquanh/android-device-optimizer)
+<div align="center">
+  <a href="https://github.com/ITquanh/AutoWX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=AutoWX&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="AutoWX" /></a>
+  <a href="https://github.com/ITquanh/android-device-optimizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=android-device-optimizer&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="android-device-optimizer" /></a>
+  <br>
+  <a href="https://github.com/ITquanh/auto-zdlz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=auto-zdlz&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="auto-zdlz" /></a>
+  <a href="https://github.com/ITquanh/LearnEnglish"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=LearnEnglish&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="LearnEnglish" /></a>
+  <br>
+  <a href="https://github.com/ITquanh/StarMind-Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=StarMind-Manager&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="StarMind-Manager" /></a>
+  <a href="https://github.com/ITquanh/personal-brand-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITquanh&repo=personal-brand-website&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=00FF41&title_color=00FF41&border_color=30363D" alt="personal-brand-website" /></a>
+</div>
+
+---
+
+### 🚀 Detailed Projects Breakdown
+
+#### 1. [🤖 AutoWX: WeChat Automation, Smart Archival & Enterprise Metrics Dispatcher](https://github.com/ITquanh/AutoWX)
+> **A hybrid WeChat automation system combining low-level SQLite/WAL database decryption and UIAutomation (adapted for WeChat 4.0)**
+- 🔍 **Low-Level DB Silent Polling**: Decrypts and reads local WeChat SQLite/WAL databases via memory-extracted keys, enabling reliable background polling even when minimized.
+- 📊 **Smart Excel Archiver & Processing Engine**: Extracts business entities, phone numbers, and plan tiers with resilient regex parsing algorithms and timestamp deduplication.
+- 🛡️ **FocusLocker & Dual Thread Daemon**: Prevents desktop focus collision during automation typing; combines message polling and scheduler threads for unattended 24/7 reliability.
+- 📋 **Paste Parser**: Allows instant one-click clipboard text parsing directly into spreadsheets without active listeners.
+- 🔗 [GitHub Repository](https://github.com/ITquanh/AutoWX) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/autowx)
+
+#### 2. [🚀 Android Device Optimizer (Universal Optimization Hub)](https://github.com/ITquanh/android-device-optimizer)
 > **Cross-version (Android 5.0 ~ 16+) device tuning hub and native AI Agent Skill**
 - 🛡️ **Zero-Brick Guarantee**: Mandatory initial snapshot creation before any modification, enabling one-click 100% reversible rollback.
 - ⚙️ **Dual-Track Pipeline**: Non-Root Robust Path (0.75x animation, global refresh rate, cgroup freeze, AOT compilation, FSTRIM) + Extreme Root Path (BMS impedance reset to release false capacity loss, 30-level smooth volume steps).
 - 🤖 **AI Agent Native Skill**: Bundled with a 6-step SOP state machine and Runbook, supported by Antigravity, Claude Code, and Cursor out of the box.
 - 🔗 [Read Tech Guide](https://personal-brand-website-plum.vercel.app/en/blog/android-device-optimizer) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/android-device-optimizer)
 
-#### 2. [🧠 SynapseFlow: Neural Executive Function Coach & Cognitive Scaffolding](https://personal-brand-website-plum.vercel.app/en/projects/synapseflow)
+#### 3. [🧠 SynapseFlow: Neural Executive Function Coach & Cognitive Scaffolding](https://personal-brand-website-plum.vercel.app/en/projects/synapseflow)
 > **A neural executive function coach and cognitive scaffolding system designed for high-pressure professionals and ADHD**
 - 🧩 **AI Micro-chunking**: Decomposes high-resistance ambiguous goals into deterministic physical actions to eliminate initiation paralysis and decision fatigue.
 - ⏱️ **30s CoV Cognitive Fingerprint**: Evaluates reaction time coefficient of variation (CoV) via symbol-matching paradigms to detect mental fatigue.
 - 🎯 **Single-Path UI**: Eliminates multi-task cognitive overload by displaying only the single active atomic task card.
 - 📱 **Native Architecture**: Modern Kotlin + Android Jetpack Compose declarative UI + Room encrypted local persistence.
 - 🔗 [Explore Architecture & Metrics](https://personal-brand-website-plum.vercel.app/en/projects/synapseflow)
-
-#### 3. [🤖 AutoWX: WeChat Automation, Smart Archival & Enterprise Metrics Dispatcher](https://personal-brand-website-plum.vercel.app/en/projects/autowx)
-> **A hybrid WeChat automation system combining low-level SQLite/WAL database decryption and UIAutomation (adapted for WeChat 4.0)**
-- 🔍 **Low-Level DB Silent Polling**: Decrypts and reads local WeChat SQLite/WAL databases via memory-extracted keys, enabling reliable background polling even when minimized.
-- 📊 **Smart Excel Archiver & Processing Engine**: Extracts business entities, phone numbers, and plan tiers with resilient regex parsing algorithms and timestamp deduplication.
-- 🛡️ **FocusLocker & Dual Thread Daemon**: Prevents desktop focus collision during automation typing; combines message polling and scheduler threads for unattended 24/7 reliability.
-- 📋 **Paste Parser**: Allows instant one-click clipboard text parsing directly into spreadsheets without active listeners.
-- 🔗 [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/autowx)
 
 #### 4. [⚡ auto-zdlz: Chrome Intranet Automation Assistant](https://github.com/ITquanh/auto-zdlz)
 > **A standalone Manifest V3 Chrome extension designed for enterprise intranet automation**
