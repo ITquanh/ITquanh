@@ -40,7 +40,7 @@ HackBit (ITquanh) - 全栈开发者 & AI 辅助工程实践者 | Full-Stack Engi
 {
   <span style="color: #7ee787;">"status"</span>: <span style="color: #a5d6ff;">"Building awesome things with AI & Geek aesthetics"</span>,
   <span style="color: #7ee787;">"location"</span>: <span style="color: #a5d6ff;">"Digital Nomad / Earth"</span>,
-  <span style="color: #7ee787;">"focus"</span>: [<span style="color: #a5d6ff;">"AI Agent Skills"</span>, <span style="color: #a5d6ff;">"Next.js Fullstack"</span>, <span style="color: #a5d6ff;">"Android Low-Level & Compose"</span>, <span style="color: #a5d6ff;">"Neuroscience Applications"</span>, <span style="color: #a5d6ff;">"Browser Automation"</span>],
+  <span style="color: #7ee787;">"focus"</span>: [<span style="color: #a5d6ff;">"AI Agent Skills"</span>, <span style="color: #a5d6ff;">"Next.js Fullstack"</span>, <span style="color: #a5d6ff;">"Android Low-Level & Compose"</span>, <span style="color: #a5d6ff;">"WeChat DB Reverse & Automation"</span>, <span style="color: #a5d6ff;">"Neuroscience Applications"</span>],
   <span style="color: #7ee787;">"motto"</span>: <span style="color: #a5d6ff;">"Code with precision, automate with elegance."</span>
 }
       </pre>
@@ -86,21 +86,29 @@ HackBit (ITquanh) - 全栈开发者 & AI 辅助工程实践者 | Full-Stack Engi
 - 📱 **技术架构**：现代 Kotlin + Android Jetpack Compose 声明式架构 + Room 本地加密存储。
 - 🔗 [查看架构与量化成效](https://personal-brand-website-plum.vercel.app/zh/projects/synapseflow)
 
-#### 3. [⚡ auto-zdlz (Chrome 内网智能化助手)](https://github.com/ITquanh/auto-zdlz)
+#### 3. [🤖 AutoWX (微信智能归档与业务报表调度中枢)](https://personal-brand-website-plum.vercel.app/zh/projects/autowx)
+> **基于底层 SQLite/WAL 数据库解密与 UIAutomation 混合驱动的微信自动化系统（适配微信 4.0）**
+- 🔍 **底层 DB 级无感静默监听**：直接读取并解密本地微信 SQLite/WAL 数据库，窗口遮挡或最小化均可后台稳定轮询，彻底告别脆弱的 UI 监听。
+- 📊 **Excel 智能归档与去重引擎**：针对复杂业务报单与套餐流水，基于自研正则容错算法智能提取手机号码与套餐，支持时间戳覆盖去重。
+- 🛡️ **焦点保护与双守护架构**：内置 `FocusLocker` 焦点保护锁杜绝自动化输入冲突；双线并发支持长周期无人值守守护。
+- 📋 **剪贴板实体解析 (Paste Parser)**：支持业务文本一键粘贴解析，瞬时生成标准数据报表。
+- 🔗 [查看架构与详情](https://personal-brand-website-plum.vercel.app/zh/projects/autowx)
+
+#### 4. [⚡ auto-zdlz (Chrome 内网智能化助手)](https://github.com/ITquanh/auto-zdlz)
 > **专为企业内网设计的独立 Manifest V3 网页操作录制与回放自动化扩展**
 - 🔒 **完全内网脱网独立**：零外部 CDN 与第三方依赖，完全合规企业内网安全隔离环境。
 - 🎬 **可视化录制与回放**：一键捕获点击、输入与选择，生成结构化步骤脚本，支持复杂异步 DOM 等待。
 - ⏰ **后台调度中枢**：基于 Manifest V3 Service Worker 与 `chrome.alarms`，支持定时后台巡检与快捷键唤起。
 - 🔗 [GitHub 仓库](https://github.com/ITquanh/auto-zdlz) · [查看项目架构](https://personal-brand-website-plum.vercel.app/zh/projects/auto-zdlz)
 
-#### 4. [📚 LearnEnglish (基于神经认知科学的智能英语学习系统)](https://github.com/ITquanh/LearnEnglish)
+#### 5. [📚 LearnEnglish (基于神经认知科学的智能英语学习系统)](https://github.com/ITquanh/LearnEnglish)
 > **融合 7 大认知科学原理的英语学习系统，支持 Web 控制台与 Android 移动端双端联动**
 - 🔬 **认知科学原理落地**：生成效应（先猜后学）、检索练习（强制主动回忆）、具身认知口语强化。
 - 💤 **TMR (目标记忆睡眠再激活)**：根据薄弱词条生成特定频率与慢波睡眠匹配的无感复习音频。
 - 🔄 **全栈闭环架构**：Python/Flask 服务端 + SRS 动态排程算法 + Android 原生移动端随时复习。
 - 🔗 [GitHub 仓库](https://github.com/ITquanh/LearnEnglish) · [查看项目架构](https://personal-brand-website-plum.vercel.app/zh/projects/learn-english)
 
-#### 5. [💻 Personal Brand Website (极客全栈数字品牌)](https://github.com/ITquanh/personal-brand-website)
+#### 6. [💻 Personal Brand Website (极客全栈数字品牌)](https://github.com/ITquanh/personal-brand-website)
 > **集极客美学与高信息密度于一体的个人全栈品牌站点**
 - 🛠️ 基于 **Next.js 16 (App Router + Turbopack)、React 19、TypeScript 与 TailwindCSS** 打造。
 - 🗄️ 云原生持久化：采用 **Neon Serverless PostgreSQL + Prisma ORM**。
@@ -145,21 +153,29 @@ Welcome to explore my personal full-stack digital space, featuring geek aestheti
 - 📱 **Native Architecture**: Modern Kotlin + Android Jetpack Compose declarative UI + Room encrypted local persistence.
 - 🔗 [Explore Architecture & Metrics](https://personal-brand-website-plum.vercel.app/en/projects/synapseflow)
 
-#### 3. [⚡ auto-zdlz: Chrome Intranet Automation Assistant](https://github.com/ITquanh/auto-zdlz)
+#### 3. [🤖 AutoWX: WeChat Automation, Smart Archival & Enterprise Metrics Dispatcher](https://personal-brand-website-plum.vercel.app/en/projects/autowx)
+> **A hybrid WeChat automation system combining low-level SQLite/WAL database decryption and UIAutomation (adapted for WeChat 4.0)**
+- 🔍 **Low-Level DB Silent Polling**: Decrypts and reads local WeChat SQLite/WAL databases via memory-extracted keys, enabling reliable background polling even when minimized.
+- 📊 **Smart Excel Archiver & Processing Engine**: Extracts business entities, phone numbers, and plan tiers with resilient regex parsing algorithms and timestamp deduplication.
+- 🛡️ **FocusLocker & Dual Thread Daemon**: Prevents desktop focus collision during automation typing; combines message polling and scheduler threads for unattended 24/7 reliability.
+- 📋 **Paste Parser**: Allows instant one-click clipboard text parsing directly into spreadsheets without active listeners.
+- 🔗 [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/autowx)
+
+#### 4. [⚡ auto-zdlz: Chrome Intranet Automation Assistant](https://github.com/ITquanh/auto-zdlz)
 > **A standalone Manifest V3 Chrome extension designed for enterprise intranet automation**
 - 🔒 **Standalone Intranet Sandbox**: Zero external CDN or remote dependencies, strictly adhering to enterprise data security standards.
 - 🎬 **Record & Replay Engine**: Captures user clicks, inputs, and selections with resilient DOM async-wait algorithms.
 - ⏰ **Background Scheduling**: Powered by MV3 Service Worker and `chrome.alarms` for periodic background triggers and global hotkeys.
 - 🔗 [GitHub Repository](https://github.com/ITquanh/auto-zdlz) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/auto-zdlz)
 
-#### 4. [📚 LearnEnglish: Neuroscience-Driven Language Learning Platform](https://github.com/ITquanh/LearnEnglish)
+#### 5. [📚 LearnEnglish: Neuroscience-Driven Language Learning Platform](https://github.com/ITquanh/LearnEnglish)
 > **A cognitive neuroscience-driven language learning platform incorporating 7 key principles with Web + Android ecosystem**
 - 🔬 **7 Cognitive Neuroscience Pillars**: Generation Effect, Retrieval Practice, and Embodied Cognition speech drills.
 - 💤 **TMR (Targeted Memory Reactivation)**: Generates targeted sleep audio tracks aligned with slow-wave sleep cycles to consolidate memory traces.
 - 🔄 **Cross-Platform Architecture**: Python/Flask backend + SRS dynamic scheduling algorithm + native Android mobile client.
 - 🔗 [GitHub Repository](https://github.com/ITquanh/LearnEnglish) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/learn-english)
 
-#### 5. [💻 Personal Brand Website](https://github.com/ITquanh/personal-brand-website)
+#### 6. [💻 Personal Brand Website](https://github.com/ITquanh/personal-brand-website)
 > **A personal full-stack digital space combining geek aesthetics with high information density**
 - 🛠️ Built with **Next.js 16 (App Router + Turbopack), React 19, TypeScript, and TailwindCSS**.
 - 🗄️ Cloud-native persistence: **Neon Serverless PostgreSQL with Prisma ORM**.

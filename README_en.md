@@ -36,7 +36,7 @@ HackBit (ITquanh) - Full-Stack Engineer & AI Engineering Practitioner
 {
   <span style="color: #7ee787;">"status"</span>: <span style="color: #a5d6ff;">"Building awesome things with AI & Geek aesthetics"</span>,
   <span style="color: #7ee787;">"location"</span>: <span style="color: #a5d6ff;">"Digital Nomad / Earth"</span>,
-  <span style="color: #7ee787;">"focus"</span>: [<span style="color: #a5d6ff;">"AI Agent Skills"</span>, <span style="color: #a5d6ff;">"Next.js Fullstack"</span>, <span style="color: #a5d6ff;">"Android Low-Level & Compose"</span>, <span style="color: #a5d6ff;">"Neuroscience Applications"</span>, <span style="color: #a5d6ff;">"Browser Automation"</span>],
+  <span style="color: #7ee787;">"focus"</span>: [<span style="color: #a5d6ff;">"AI Agent Skills"</span>, <span style="color: #a5d6ff;">"Next.js Fullstack"</span>, <span style="color: #a5d6ff;">"Android Low-Level & Compose"</span>, <span style="color: #a5d6ff;">"WeChat DB Reverse & Automation"</span>, <span style="color: #a5d6ff;">"Neuroscience Applications"</span>],
   <span style="color: #7ee787;">"motto"</span>: <span style="color: #a5d6ff;">"Code with precision, automate with elegance."</span>
 }
       </pre>
@@ -78,21 +78,29 @@ Welcome to explore my personal full-stack digital space, featuring geek aestheti
 - 📱 **Native Architecture**: Modern Kotlin + Android Jetpack Compose declarative UI + Room encrypted local persistence.
 - 🔗 [Explore Architecture & Metrics](https://personal-brand-website-plum.vercel.app/en/projects/synapseflow)
 
-### 3. [⚡ auto-zdlz: Chrome Intranet Automation Assistant](https://github.com/ITquanh/auto-zdlz)
+### 3. [🤖 AutoWX: WeChat Automation, Smart Archival & Enterprise Metrics Dispatcher](https://personal-brand-website-plum.vercel.app/en/projects/autowx)
+> **A hybrid WeChat automation system combining low-level SQLite/WAL database decryption and UIAutomation (adapted for WeChat 4.0)**
+- 🔍 **Low-Level DB Silent Polling**: Decrypts and reads local WeChat SQLite/WAL databases via memory-extracted keys, enabling reliable background polling even when minimized.
+- 📊 **Smart Excel Archiver & Processing Engine**: Extracts business entities, phone numbers, and plan tiers with resilient regex parsing algorithms and timestamp deduplication.
+- 🛡️ **FocusLocker & Dual Thread Daemon**: Prevents desktop focus collision during automation typing; combines message polling and scheduler threads for unattended 24/7 reliability.
+- 📋 **Paste Parser**: Allows instant one-click clipboard text parsing directly into spreadsheets without active listeners.
+- 🔗 [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/autowx)
+
+### 4. [⚡ auto-zdlz: Chrome Intranet Automation Assistant](https://github.com/ITquanh/auto-zdlz)
 > **A standalone Manifest V3 Chrome extension designed for enterprise intranet automation**
 - 🔒 **Standalone Intranet Sandbox**: Zero external CDN or remote dependencies, strictly adhering to enterprise data security standards.
 - 🎬 **Record & Replay Engine**: Captures user clicks, inputs, and selections with resilient DOM async-wait algorithms.
 - ⏰ **Background Scheduling**: Powered by MV3 Service Worker and `chrome.alarms` for periodic background triggers and global hotkeys.
 - 🔗 [GitHub Repository](https://github.com/ITquanh/auto-zdlz) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/auto-zdlz)
 
-### 4. [📚 LearnEnglish: Neuroscience-Driven Language Learning Platform](https://github.com/ITquanh/LearnEnglish)
+### 5. [📚 LearnEnglish: Neuroscience-Driven Language Learning Platform](https://github.com/ITquanh/LearnEnglish)
 > **A cognitive neuroscience-driven language learning platform incorporating 7 key principles with Web + Android ecosystem**
 - 🔬 **7 Cognitive Neuroscience Pillars**: Generation Effect, Retrieval Practice, and Embodied Cognition speech drills.
 - 💤 **TMR (Targeted Memory Reactivation)**: Generates targeted sleep audio tracks aligned with slow-wave sleep cycles to consolidate memory traces.
 - 🔄 **Cross-Platform Architecture**: Python/Flask backend + SRS dynamic scheduling algorithm + native Android mobile client.
 - 🔗 [GitHub Repository](https://github.com/ITquanh/LearnEnglish) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/learn-english)
 
-### 5. [💻 Personal Brand Website](https://github.com/ITquanh/personal-brand-website)
+### 6. [💻 Personal Brand Website](https://github.com/ITquanh/personal-brand-website)
 > **A personal full-stack digital space combining geek aesthetics with high information density**
 - 🛠️ Built with **Next.js 16 (App Router + Turbopack), React 19, TypeScript, and TailwindCSS**.
 - 🗄️ Cloud-native persistence: **Neon Serverless PostgreSQL with Prisma ORM**.
