@@ -1,7 +1,6 @@
 <div align="center">
 
 # ⚡ Hello World, I'm HackBit (ITquanh) 👨‍💻
-
 <p align="center">
   <b>A personal full-stack digital space combining geek aesthetics with high information density</b><br>
   <i>Full-Stack Engineer · System Automation Architect · AI-Assisted Development Pioneer</i>
@@ -37,7 +36,7 @@ HackBit (ITquanh) - Full-Stack Engineer & AI Engineering Practitioner
 {
   <span style="color: #7ee787;">"status"</span>: <span style="color: #a5d6ff;">"Building awesome things with AI & Geek aesthetics"</span>,
   <span style="color: #7ee787;">"location"</span>: <span style="color: #a5d6ff;">"Digital Nomad / Earth"</span>,
-  <span style="color: #7ee787;">"focus"</span>: [<span style="color: #a5d6ff;">"AI Agent Skills"</span>, <span style="color: #a5d6ff;">"Next.js Fullstack"</span>, <span style="color: #a5d6ff;">"Android Low-Level Tuning"</span>, <span style="color: #a5d6ff;">"Automation"</span>],
+  <span style="color: #7ee787;">"focus"</span>: [<span style="color: #a5d6ff;">"AI Agent Skills"</span>, <span style="color: #a5d6ff;">"Next.js Fullstack"</span>, <span style="color: #a5d6ff;">"Android Low-Level & Compose"</span>, <span style="color: #a5d6ff;">"Neuroscience Applications"</span>, <span style="color: #a5d6ff;">"Browser Automation"</span>],
   <span style="color: #7ee787;">"motto"</span>: <span style="color: #a5d6ff;">"Code with precision, automate with elegance."</span>
 }
       </pre>
@@ -51,14 +50,14 @@ HackBit (ITquanh) - Full-Stack Engineer & AI Engineering Practitioner
 
 ## 🌐 Deep Integration with My Space (Quick Links)
 
-I built a high-performance personal tech brand website with geek aesthetics, deeply linked with GitHub:
+Welcome to explore my personal full-stack digital space, featuring geek aesthetics and high information density:
 
-| Portal | Direct Link | Key Highlights |
+| Entrance | Direct Link | Key Highlights |
 | :--- | :--- | :--- |
-| **🏠 Digital Space Home** | [personal-brand-website-plum.vercel.app/en](https://personal-brand-website-plum.vercel.app/en) | Terminal animation, interactive Bento Grid, cyber dark theme |
-| **🚀 Featured Projects** | [/en/projects](https://personal-brand-website-plum.vercel.app/en/projects) | Quantified impacts, architecture breakdowns, live demos & tech stacks |
-| **📝 Tech Blog & Guides** | [/en/blog](https://personal-brand-website-plum.vercel.app/en/blog) | Deep-dive Android tuning, AI Agent skills, and full-stack engineering |
-| **📋 Career & Timeline** | [/en/about](https://personal-brand-website-plum.vercel.app/en/about) | Career milestones, skill radar chart, and quantifiable deliverables |
+| **🏠 Digital Space Home** | [personal-brand-website-plum.vercel.app](https://personal-brand-website-plum.vercel.app/en) | Terminal effects, Bento Grid UI, dark cyber theme |
+| **🚀 Featured Projects** | [/en/projects](https://personal-brand-website-plum.vercel.app/en/projects) | Quantified metrics, architecture breakdowns, live demos |
+| **📝 Geek Tech Blog** | [/en/blog](https://personal-brand-website-plum.vercel.app/en/blog) | Android tuning practices, AI Agent specs, full-stack design |
+| **📑 Timeline & Resume** | [/en/about](https://personal-brand-website-plum.vercel.app/en/about) | Tech radar, skill cloud, engineering milestones |
 
 ---
 
@@ -66,14 +65,36 @@ I built a high-performance personal tech brand website with geek aesthetics, dee
 
 ### 1. [🚀 Android Device Optimizer (Universal Optimization Hub)](https://github.com/ITquanh/android-device-optimizer)
 > **Cross-version (Android 5.0 ~ 16+) device tuning hub and native AI Agent Skill**
-- 🛡️ **Zero-Risk Guarantee**: Enforces offline snapshot creation before any modification, enabling one-click 100% reversible rollback.
-- ⚡ **Dual-Track Pipeline**: Non-Root Robust Path (0.75x animation, global refresh rate, cgroup freeze, AOT compilation, FSTRIM) + Extreme Root Path (BMS impedance reset to release false capacity loss, 30-level smooth volume steps).
+- 🛡️ **Zero-Brick Guarantee**: Mandatory initial snapshot creation before any modification, enabling one-click 100% reversible rollback.
+- ⚙️ **Dual-Track Pipeline**: Non-Root Robust Path (0.75x animation, global refresh rate, cgroup freeze, AOT compilation, FSTRIM) + Extreme Root Path (BMS impedance reset to release false capacity loss, 30-level smooth volume steps).
 - 🤖 **AI Agent Native Skill**: Bundled with a 6-step SOP state machine and Runbook, supported by Antigravity, Claude Code, and Cursor out of the box.
 - 🔗 [Read Tech Guide](https://personal-brand-website-plum.vercel.app/en/blog/android-device-optimizer) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/android-device-optimizer)
 
-### 2. [💻 Personal Brand Website](https://github.com/ITquanh/personal-brand-website)
+### 2. [🧠 SynapseFlow: Neural Executive Function Coach & Cognitive Scaffolding](https://personal-brand-website-plum.vercel.app/en/projects/synapseflow)
+> **A neural executive function coach and cognitive scaffolding system designed for high-pressure professionals and ADHD**
+- 🧩 **AI Micro-chunking**: Decomposes high-resistance ambiguous goals into deterministic physical actions to eliminate initiation paralysis and decision fatigue.
+- ⏱️ **30s CoV Cognitive Fingerprint**: Evaluates reaction time coefficient of variation (CoV) via symbol-matching paradigms to detect mental fatigue.
+- 🎯 **Single-Path UI**: Eliminates multi-task cognitive overload by displaying only the single active atomic task card.
+- 📱 **Native Architecture**: Modern Kotlin + Android Jetpack Compose declarative UI + Room encrypted local persistence.
+- 🔗 [Explore Architecture & Metrics](https://personal-brand-website-plum.vercel.app/en/projects/synapseflow)
+
+### 3. [⚡ auto-zdlz: Chrome Intranet Automation Assistant](https://github.com/ITquanh/auto-zdlz)
+> **A standalone Manifest V3 Chrome extension designed for enterprise intranet automation**
+- 🔒 **Standalone Intranet Sandbox**: Zero external CDN or remote dependencies, strictly adhering to enterprise data security standards.
+- 🎬 **Record & Replay Engine**: Captures user clicks, inputs, and selections with resilient DOM async-wait algorithms.
+- ⏰ **Background Scheduling**: Powered by MV3 Service Worker and `chrome.alarms` for periodic background triggers and global hotkeys.
+- 🔗 [GitHub Repository](https://github.com/ITquanh/auto-zdlz) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/auto-zdlz)
+
+### 4. [📚 LearnEnglish: Neuroscience-Driven Language Learning Platform](https://github.com/ITquanh/LearnEnglish)
+> **A cognitive neuroscience-driven language learning platform incorporating 7 key principles with Web + Android ecosystem**
+- 🔬 **7 Cognitive Neuroscience Pillars**: Generation Effect, Retrieval Practice, and Embodied Cognition speech drills.
+- 💤 **TMR (Targeted Memory Reactivation)**: Generates targeted sleep audio tracks aligned with slow-wave sleep cycles to consolidate memory traces.
+- 🔄 **Cross-Platform Architecture**: Python/Flask backend + SRS dynamic scheduling algorithm + native Android mobile client.
+- 🔗 [GitHub Repository](https://github.com/ITquanh/LearnEnglish) · [Explore Architecture](https://personal-brand-website-plum.vercel.app/en/projects/learn-english)
+
+### 5. [💻 Personal Brand Website](https://github.com/ITquanh/personal-brand-website)
 > **A personal full-stack digital space combining geek aesthetics with high information density**
-- 🛠️ Powered by **Next.js 16 (App Router + Turbopack), React 19, TypeScript, and TailwindCSS**.
+- 🛠️ Built with **Next.js 16 (App Router + Turbopack), React 19, TypeScript, and TailwindCSS**.
 - 🗄️ Cloud-native persistence: **Neon Serverless PostgreSQL with Prisma ORM**.
 - 📊 Built-in seamless analytics tracker, real-time i18n localization, and Bento Grid responsive architecture.
 - 🔗 [Visit Live Website](https://personal-brand-website-plum.vercel.app/en)
@@ -88,14 +109,19 @@ I built a high-performance personal tech brand website with geek aesthetics, dee
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### 🗄️ Backend, Database & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -127,7 +153,7 @@ I built a high-performance personal tech brand website with geek aesthetics, dee
 
 ## 📬 Get In Touch
 
-- 🌐 **Digital Brand Website**: [personal-brand-website-plum.vercel.app/en](https://personal-brand-website-plum.vercel.app/en) *(Press <kbd>Ctrl</kbd> + <kbd>K</kbd> anywhere to trigger the command palette)*
+- 🌐 **Digital Brand Website**: [personal-brand-website-plum.vercel.app](https://personal-brand-website-plum.vercel.app/en) *(Press <kbd>Ctrl</kbd> + <kbd>K</kbd> anywhere to trigger the command palette)*
 - 💬 **GitHub Discussions / Issues**: Welcome to open issues or PRs in any repository
 - ✉️ **Email**: Get in touch via the contact panel on the personal website
 
